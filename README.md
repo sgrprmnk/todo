@@ -17,6 +17,7 @@
     <ul>
       <li>can be easily added any task</li>
       <li>can track completed and uncompleted task</li>
+      <li> can be deleted task easily</li>
       <li>User friendly</li>
     </ul>
     <h2>Easy to maintain/ Update</h2>
